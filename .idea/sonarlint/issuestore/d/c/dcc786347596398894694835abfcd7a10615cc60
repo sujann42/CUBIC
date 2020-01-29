@@ -1,0 +1,13 @@
+
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(º’òÿÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶ºé»ùÿÿÿÿ
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(»Á¶¼
+nsquid:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(­Ğ©µ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ
+nsquid:S4276"WRefactor this code to use the more specialised Functional Interface 'IntBinaryOperator'(ß™íõ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ûçß«ıÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Î¸Ñçÿÿÿÿÿ
+asquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›ÑÑS
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚÷§À

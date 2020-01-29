@@ -1,0 +1,10 @@
+
+Xsquid:S1854"5Remove this useless assignment to local variable "n".(èÛØîşÿÿÿÿ8ÒÙààì-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(æ¬ïş8Ò¦ùàì-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ±™Œ8º¢ÿàì-
+Isquid:S1481"&Remove this unused "n" local variable.(èÛØîşÿÿÿÿ8ÒÙààì-
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓßÉÁ8Ò¦ùàì-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¬å›ù
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8º¢ÿàì-

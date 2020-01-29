@@ -1,0 +1,7 @@
+
+‚squid:S1488"eImmediately throw this expression instead of assigning it to the temporary variable "exceptionClass".(¨ŸÇK8É‚ø¸ì-
+Dsquid:S1481"&Remove this unused "x" local variable.(­ä£Á8Ý¨õ¸ì-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Äõãýûÿÿÿÿ
+Ssquid:S1854"5Remove this useless assignment to local variable "x".(­ä£Á8Ý¨õ¸ì-
+osquid:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ï¡‘Ùûÿÿÿÿ8ÁÚë¸ì-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·š†‡

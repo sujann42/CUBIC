@@ -1,0 +1,13 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(©Åâãşÿÿÿÿ8¦è°ò-
+[
+squid:S106!"9Replace this use of System.out or System.err by a logger.(‘š¸Ÿûÿÿÿÿ8Ò‰ÿ¯ò-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(©Åâãşÿÿÿÿ8ä½¤°ò-
+dsquid:S1075
+"ARefactor your code to get this URI from a customizable parameter.(±è‡îúÿÿÿÿ8„ùù¯ò-
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(£×şùùÿÿÿÿ
+Fsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8…„•°ò-
+esquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒšŞ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ïÀ›D8²®´°ò-

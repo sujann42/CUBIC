@@ -1,0 +1,8 @@
+
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(³åíûÿÿÿÿ8‡àÍøò-
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8®ª²øò-
+Jsquid:S1612
+",Replace this lambda with a method reference.( ¡8¢¹±øò-
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡ûÈŸ

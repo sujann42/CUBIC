@@ -1,0 +1,8 @@
+
+Bsquid:S1481",Remove this unused "future1" local variable.(µºÜ3
+·%squid:RedundantThrowsDeclarationCheck"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(àÜÕúÿÿÿÿÿ
+­%squid:RedundantThrowsDeclarationCheck"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(àÜÕúÿÿÿÿÿ
+Qsquid:S1854";Remove this useless assignment to local variable "future1".(µºÜ3
+wsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "num".(¥¬–²ùÿÿÿÿ
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€ªâ¶ýÿÿÿÿ
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Þú¯
